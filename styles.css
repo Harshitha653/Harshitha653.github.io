@@ -448,8 +448,8 @@ h2 em {
 .about-grid {
   border-top: 1px solid var(--line);
   display: grid;
-  gap: 6rem;
-  grid-template-columns: 0.8fr 1.2fr;
+  gap: 2rem;
+  grid-template-columns: 1fr;
   margin-top: 4rem;
   padding-top: 2.5rem;
 }
@@ -463,7 +463,7 @@ h2 em {
 .about-body {
   color: #53605c;
   display: grid;
-  font-size: 0.93rem;
+  font-size: 1rem;
   gap: 1.25rem;
 }
 
