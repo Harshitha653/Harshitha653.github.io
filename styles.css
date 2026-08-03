@@ -462,9 +462,15 @@ h2 em {
 
 .about-body {
   color: #53605c;
-  display: grid;
-  font-size: 1rem;
-  gap: 1.25rem;
+  display: block;
+  font-size: 1.08rem;
+  line-height: 1.9;
+  max-width: 900px;
+  width: 100%;
+}
+
+.about-body p {
+  margin-bottom: 1.5rem;
 }
 
 .stats {
